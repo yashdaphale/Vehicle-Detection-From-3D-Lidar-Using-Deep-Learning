@@ -46,10 +46,8 @@ The project uses the KITTI Object Detection Dataset, which provides:
 - Intelligent Transportation Systems
 - Traffic Monitoring and Analysis
 
-## Authors
-- Sahil Balkrishna Awate
-- Yash Vilas Daphale
-- Sanket Dilip Chavan
+## Author
 
-### Project Guide
-Dr. N. M. Shivsharan
+Yash Vilas Daphale
+
+
